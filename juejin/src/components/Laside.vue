@@ -2,38 +2,38 @@
   <div class="sidebar">
     <ul>
       <li>
-        <a href="#" class="dianzan">
+        <a href="javascript:;" class="dianzan">
           <i class="fa fa-thumbs-o-up"></i>
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="javascript:;">
           <i class="fa fa-commenting-o"></i>
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="javascript:;">
           <i class="fa fa-star-o"></i>
         </a>
       </li>
 
       <li id="liShare" @mouseover="show" @mouseleave="leave">
-        <a href="#">
+        <a href="javascript:;">
           <i class="fa fa-share"></i>
         </a>
         <div class="share" ref="show">
           <li>
-            <a href="#">
+            <a href="javascript:;">
               <i class="fa fa-weixin"></i>
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="javascript:;">
               <i class="fa fa-weibo"></i>
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="javascript:;">
               <i class="fa fa-qq"></i>
             </a>
           </li>
@@ -41,12 +41,12 @@
       </li>
       
       <li>
-        <a href="#">
+        <a href="javascript:;">
           <i class="fa fa-exclamation-triangle"></i>
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="javascript:;">
           <i class="fa fa-qrcode"></i>
         </a>
       </li>
