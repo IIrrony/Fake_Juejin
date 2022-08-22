@@ -1,0 +1,100 @@
+{
+  "id": "3542332",
+  "name": "juejin",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "109762",
+      "name": "message",
+      "font_class": "message",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "1727435",
+      "name": "211铃铛",
+      "font_class": "lingdang",
+      "unicode": "e8c0",
+      "unicode_decimal": 59584
+    },
+    {
+      "icon_id": "4765896",
+      "name": "eye",
+      "font_class": "eye",
+      "unicode": "e78f",
+      "unicode_decimal": 59279
+    },
+    {
+      "icon_id": "4937036",
+      "name": "weibo-square-fill",
+      "font_class": "weibo-square-fill",
+      "unicode": "e892",
+      "unicode_decimal": 59538
+    },
+    {
+      "icon_id": "9149167",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "11226999",
+      "name": "2-wechat",
+      "font_class": "-wechat",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "11487977",
+      "name": "arrow-right",
+      "font_class": "arrow-right",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "11487982",
+      "name": "arrow-up",
+      "font_class": "arrow-up",
+      "unicode": "e744",
+      "unicode_decimal": 59204
+    },
+    {
+      "icon_id": "12011691",
+      "name": "arrow-down",
+      "font_class": "arrow-down",
+      "unicode": "e7b2",
+      "unicode_decimal": 59314
+    },
+    {
+      "icon_id": "13745126",
+      "name": "Magnifier",
+      "font_class": "Magnifier",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "15838581",
+      "name": "arrow-up-filling",
+      "font_class": "arrow-up-filling",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "15838582",
+      "name": "arrow-down-filling",
+      "font_class": "arrow-down-filling",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "26267597",
+      "name": "juejin",
+      "font_class": "juejin",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    }
+  ]
+}
